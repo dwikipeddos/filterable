@@ -14,13 +14,5 @@
             "email": "arisxxx5@gmail.com"
         }
     ],
-    "require": {},
-    "extra": {
-        "laravel":{
-            "providers" : [
-                "dwikipeddos\\filterable\\FilterableServiceProvider"
-            ]
-        }
-    }
-    
+    "require": {}
 }
