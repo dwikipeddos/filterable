@@ -1,0 +1,26 @@
+{
+    "name": "dwikipeddos/filterable",
+    "description": "a package for filtering laravels model using query request",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dwikipeddos\\Filterable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dwikipeddos",
+            "email": "arisxxx5@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel":{
+            "providers" : [
+                "dwikipeddos\\filterable\\FilterableServiceProvider"
+            ]
+        }
+    }
+    
+}
